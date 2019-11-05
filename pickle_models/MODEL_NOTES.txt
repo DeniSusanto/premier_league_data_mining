@@ -1,0 +1,2 @@
+1. scoring_prob_model predictors (accuracy 0.736034565563852):
+['fpl_minutes', 'fpl_goals', 'fpl_assits', 'fpl_points', 'fpl_bonus', 'formation_place']
